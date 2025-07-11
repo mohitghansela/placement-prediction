@@ -2,7 +2,7 @@
 
 A machine learning project to predict student placement using global higher education migration data.
 
-✨ You can learn it too — I wrote the code in a **tutor-style** step-by-step format, so it's beginner-friendly.
+✨ You can learn it too, I wrote the code in a **tutor-style** step-by-step format, so it's beginner-friendly.
 
 
 ## 🔍 Overview
